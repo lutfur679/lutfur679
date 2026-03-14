@@ -9,5 +9,5 @@
 - 💬 Ask me about Software Engineering studies, academic research, and learning AI.
 - 📫 How to reach me: GitHub / Email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I aim to become a Professor and contribute to AI research in education.
+- ⚡ Fun fact: I enjoy exploring how AI and software engineering can improve learning systems.
 
